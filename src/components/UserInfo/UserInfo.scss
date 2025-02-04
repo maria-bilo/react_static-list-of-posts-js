@@ -1,1 +1,14 @@
 // add styles here
+// src/components/UserInfo/UserInfo.scss
+.UserInfo {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .UserInfo:hover {
+    text-decoration: underline;
+  }
+  
+  .UserInfo {
+    font-weight: bold;
+  }
